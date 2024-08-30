@@ -145,4 +145,3 @@ int main()
         getch();
 	}
 }
-hhdrfhsdfgjjsisi hsdfuiosdf gusdfhu gusdfji gufhui asf huiase 
